@@ -18,8 +18,8 @@ ___
 ## Getting Started
 
 ___
-Option 1 - Clone the repo  
-Option 2 - Grab the .exe from the exe directory  
+Option 1 - Clone the repo and run it from the source.
+Option 2 - Grab the .exe from the dist folder and run it.  
 
 ## Screenshot
 ___
