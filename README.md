@@ -36,4 +36,4 @@ Steve Earl
 ## License
 ___
 This project is licensed under Apache License - Version 2.0  
-See [license.txt](License.txt) file for more information
+See [LICENSE](LICENSE) file for more information
